@@ -4,7 +4,7 @@ Coding Blocks IDE is an online IDE which supports compilation of multiple progra
 ## Deployment
 
 [![Netlify](https://www.netlify.com/img/global/badges/netlify-color-accent.svg)](https://app.netlify.com/sites/cb-ide)  
-Commits to master and PRs are automatically built and deployed by Netlify
+Commits to master and PRs are automatically built and deployed by Netlify.
 
 ![image](https://user-images.githubusercontent.com/22571395/40135873-ffe73618-5963-11e8-85db-01c103688f4a.png)
 
@@ -38,7 +38,7 @@ This responsive online code editor and compiler have the following features.
 |Feature|Details|
 |-------|-------|
 |**Multiple Language Support**|C, C++, Java, Python, Java Script.|
-|**Upload Code**|Code can be uploaded from local system|
+|**Upload Code**|Code can be uploaded from local system.|
 |**Download Code**|Code can be downloaded with the name specified by the user.|
 |**Custom Input**|A custom input box available for the user where user can enter inputs required by the program to run.|
 |**FullScreen Mode**|Editor can go fullscreen.|
@@ -52,7 +52,7 @@ This responsive online code editor and compiler have the following features.
 |------|--------|
 |**Run**|Use the button to compile the code.|
 |**Save**| Manually save all the content in localStorage.|
-|**Reset**|To clear all the content, localStorage and resetting settings.
+|**Reset**|To clear all the content, localStorage and resetting settings.|
 |**Reset Defaults**| Reset all the editor settings.|
 |**UPLOAD**|Use to button and choose the file from local system to upload.|
 |**DOWNLOAD**|Use the button to download the code in the editor into a file.|
